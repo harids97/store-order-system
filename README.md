@@ -28,7 +28,7 @@ The project includes a REST API and a simple Blade-based billing interface.
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/harids97/store-order-system.git
    cd store-order-system
    ```
 
